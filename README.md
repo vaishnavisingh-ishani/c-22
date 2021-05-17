@@ -1,2 +1,2 @@
-# c-22
-I made a bouncy ball and a ground.  
+# p5.play-boilerplate
+Boiler plate for p5.play
